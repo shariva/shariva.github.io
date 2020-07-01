@@ -1,7 +1,5 @@
 
-<img src=image.png height="100"/> 
-
-[<img src = buttons/about.JPG width="100">]()
+<img src=image.png height="100"/> [<img src = buttons/about.JPG width="100">]()
 [<img src = buttons/research.JPG width="100">]()
 [<img src = buttons/courses.JPG width="100">]()
 
