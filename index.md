@@ -1,5 +1,5 @@
 # Shariva Dhekane
-![Shariva Dhekane](https://drive.google.com/file/d/1GW3JzP_uQxmeyb2ljFJJfxaFLvCy9YNr/view)
+![](123.jpeg =250x)
 ___
 I am a 4th year undergrad student at the [College of Engineering, Pune](https://www.coep.org.in/) in the [Department of Electronics and Telecommunication Engineering](https://www.coep.org.in/departments/entc).
 
