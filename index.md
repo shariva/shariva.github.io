@@ -1,10 +1,7 @@
 
-<img src=me.JPG height="100"/> 
-
-![](me.JPG?s=100) [<img src = button_without_border/research.JPG width="80">](/research.md)
+<img src=me.JPG height="100"/> [<img src = button_without_border/research.JPG width="80">](/research.md)
 [<img src = button_without_border/courses.JPG width="80">](/courses.md)
-<span markdown="1">
-  
+
 ___
 ### About
 I am a 4th year undergrad student at the [College of Engineering, Pune](https://www.coep.org.in/) in the [Department of Electronics and Telecommunication Engineering](https://www.coep.org.in/departments/entc).
@@ -16,5 +13,3 @@ ___
 ### Contact
 Personal Email ID: shariva.dhekane@gmail.com <br>
 College Email ID: dhekanesv17.extc@coep.ac.in
-  
-</span>
