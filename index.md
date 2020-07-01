@@ -1,5 +1,5 @@
 
-<img src=me.JPG height="100"/>[<img src = button_without_border/research.JPG width="80">](/research.md)
+<img src=me.JPG height="100"/> [<img src = button_without_border/research.JPG width="80">](/research.md)
 [<img src = button_without_border/courses.JPG width="80">](/courses.md)
 
 ___
