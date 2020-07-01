@@ -1,7 +1,7 @@
 
 <img src=me.JPG height="100"/> [<img src = button_without_border/about.JPG width="80">]()
 [<img src = button_without_border/research.JPG width="80">]()
-[<img src = button_without_border/courses.JPG width="80">]()
+[<img src = button_without_border/courses.JPG width="80">](/courses.md)
 
 ___
 ### About
