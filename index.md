@@ -11,6 +11,5 @@ My Main interests lie in Computer Vision, Image Processing, Video Processing and
 I was an intern at [Goldman Sachs]() in Summer 2020 where I had the opportunity to explore and implement a real time product based project. It mainly involved backend web development. I have also been a part of the [COEP Satellite Team]() where I could learn about different microcontrollers and algortihms.
 ___
 ### Contact
-Personal Email ID: shariva.dhekane@gmail.com
-
+Personal Email ID: shariva.dhekane@gmail.com <br>
 College Email ID: dhekanesv17.extc@coep.ac.in
