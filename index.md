@@ -4,6 +4,7 @@
 [<img src = button_without_border/courses.JPG width="80">]()
 
 ___
+### About
 I am a 4th year undergrad student at the [College of Engineering, Pune](https://www.coep.org.in/) in the [Department of Electronics and Telecommunication Engineering](https://www.coep.org.in/departments/entc).
 
 My Main interests lie in Computer Vision, Image Processing, Video Processing and Machine Learning. Follow this link to know about my [Projects and Work Experience](/). Also see [Courses](/courses) for an overview of courses and course projects.
