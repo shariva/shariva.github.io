@@ -1,9 +1,9 @@
 
 <img src=image.png height="100"/> 
 
-[About]()
-[Research]()
-[Courses]()
+[<img src = buttons/about.JPG width="100">]()
+[<img src = buttons/research.JPG width="100">]()
+[<img src = buttons/courses.JPG width="100">]()
 
 ___
 I am a 4th year undergrad student at the [College of Engineering, Pune](https://www.coep.org.in/) in the [Department of Electronics and Telecommunication Engineering](https://www.coep.org.in/departments/entc).
