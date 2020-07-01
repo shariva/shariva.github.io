@@ -1,7 +1,7 @@
 
-<img src=image.png height="100"/> [<img src = button_without_border/about.JPG width="100">]()
-[<img src = button_without_border/research.JPG width="100">]()
-[<img src = button_without_border/courses.JPG width="100">]()
+<img src=image.png height="100"/> [<img src = button_without_border/about.JPG width="80">]()
+[<img src = button_without_border/research.JPG width="80">]()
+[<img src = button_without_border/courses.JPG width="80">]()
 
 ___
 I am a 4th year undergrad student at the [College of Engineering, Pune](https://www.coep.org.in/) in the [Department of Electronics and Telecommunication Engineering](https://www.coep.org.in/departments/entc).
