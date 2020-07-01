@@ -18,7 +18,7 @@ COEP’s satellite initiative i.e. CSAT has successfully completed the launch an
     -	Configured its NVIC system to define different interrupts and write Interrupt Service Routines (ISRs) for them
 
 **ACADEMIC PROJECTS**<br>
--	**Pedestrian detection and direction prediction using Video Processing **
+-	**Pedestrian detection and direction prediction using Video Processing**
     -	The system used input videos of pedestrian and employed 3 disparate approaches to detect and predict the motion of a pedestrian using the input video
 -	**Digit Recognition System using Machine Learning**
     -	A sample dataset of handwritten digits was used to develop a model that identifies handwritten digits from their images
