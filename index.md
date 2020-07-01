@@ -1,7 +1,7 @@
 
 <img src=123.jpeg width="100"/> 
 
-### Shariva Dhekane 
+## Shariva Dhekane 
 ### Electronics and Telecommunication and Computer Engineering(Minor)
 
 I am a 4th year undergrad student at the [College of Engineering, Pune](https://www.coep.org.in/) in the [Department of Electronics and Telecommunication Engineering](https://www.coep.org.in/departments/entc).
