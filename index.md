@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Shariva Dhekane
+![Shariva Dhekane](https://drive.google.com/file/d/1GW3JzP_uQxmeyb2ljFJJfxaFLvCy9YNr/view)
+___
+I am a 4th year undergrad student at the [College of Engineering, Pune](https://www.coep.org.in/) in the [Department of Electronics and Telecommunication Engineering](https://www.coep.org.in/departments/entc).
 
-You can use the [editor on GitHub](https://github.com/shariva/shariva.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My Main interests lie in Computer Vision, Image Processing, Video Processing and Machine Learning. Follow this link to know about my [Projects and Work Experience](). Also see [Courses]() for an overview of courses and course projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I was an intern at [Goldman Sachs]() in Summer 2020 where I had the opportunity to explore and implement a real time product based project. It mainly involved backend web development. I have also been a part of the [COEP Satellite Team]() where I could learn about different microcontrollers and algortihms.
+___
+## Contact
+Personal Email ID: shariva.dhekane@gmail.com
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shariva/shariva.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+College Email ID: dhekanesv17.extc@coep.ac.in
