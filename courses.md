@@ -1,19 +1,54 @@
-<img src=me.JPG height="100"/> [<img src = button_without_border/research.JPG width="80">](/research.md)
-[<img src = button_without_border/courses.JPG width="80">](/courses.md)
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-___
-### Courses
-- Machine Learning from Stanford University on Coursera <br>
-Instructor – Andrew Ng
-- Deep Learning from IIT Kharagpur on NPTEL<br>
-Instructor – Prof Prabir Kumar Biswas
-- HTTP Fundamentals from Pluralsight<br>
-Instructor – Scott Allen	
-- The Java Language from Pluralsight<br>
-Instructor – Jim Wilson
-- Angular JS from Pluralsight<br>
+<!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>shariva.github.io</title>
+<meta name="generator" content="Jekyll v3.8.7" />
+<meta property="og:title" content="shariva.github.io" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://shariva.github.io/courses.html" />
+<meta property="og:url" content="https://shariva.github.io/courses.html" />
+<meta property="og:site_name" content="shariva.github.io" />
+<script type="application/ld+json">
+{"@type":"WebPage","headline":"shariva.github.io","url":"https://shariva.github.io/courses.html","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=f8b92375bfae0eb267955ecac5a0f31eb2c89500">
+  </head>
+  <body>
+  <img src="me.JPG" height="100"/><a href="/research.html"><img src = button_without_border/research.JPG width="80"></a>
+<a href="/courses.html"><img src = button_without_border/courses.JPG width="80"></a>
+
+<hr />
+    <div class="container-lg px-3 my-5 markdown-body">
+<h3 id="courses">Courses</h3>
+<ul>
+  <li>Machine Learning from Stanford University on Coursera <br />
+Instructor – Andrew Ng</li>
+  <li>Deep Learning from IIT Kharagpur on NPTEL<br />
+Instructor – Prof Prabir Kumar Biswas</li>
+  <li>HTTP Fundamentals from Pluralsight<br />
+Instructor – Scott Allen</li>
+  <li>The Java Language from Pluralsight<br />
+Instructor – Jim Wilson</li>
+  <li>Angular JS from Pluralsight<br />
 Instructor – Scott Allen
 ___
-### Contact
-Personal Email ID: shariva.dhekane@gmail.com <br>
-College Email ID: dhekanesv17.extc@coep.ac.in
+    <h3 id="contact">Contact</h3>
+    <p>Personal Email ID: shariva.dhekane@gmail.com <br />
+College Email ID: dhekanesv17.extc@coep.ac.in</p>
+  </li>
+</ul>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+    
+  </body>
+</html>
